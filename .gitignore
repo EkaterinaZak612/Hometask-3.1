@@ -30,3 +30,4 @@ bin/
 .out
 .idea
 Hometask 3.1.iml
+*.xml
